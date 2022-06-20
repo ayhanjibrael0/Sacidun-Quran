@@ -1,0 +1,724 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CF1202ED285CD4BD00AB229D /* SacidunApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1202EC285CD4BD00AB229D /* SacidunApp.swift */; };
+		CF1202EF285CD4BD00AB229D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1202EE285CD4BD00AB229D /* ContentView.swift */; };
+		CF1202F1285CD4C000AB229D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF1202F0285CD4C000AB229D /* Assets.xcassets */; };
+		CF1202F4285CD4C000AB229D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF1202F3285CD4C000AB229D /* Preview Assets.xcassets */; };
+		CF1202FE285CD4C100AB229D /* SacidunTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1202FD285CD4C100AB229D /* SacidunTests.swift */; };
+		CF120308285CD4C100AB229D /* SacidunUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF120307285CD4C100AB229D /* SacidunUITests.swift */; };
+		CF12030A285CD4C100AB229D /* SacidunUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF120309285CD4C100AB229D /* SacidunUITestsLaunchTests.swift */; };
+		CF120324285CD76100AB229D /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF120323285CD76100AB229D /* TabBarView.swift */; };
+		CF120327285CD85100AB229D /* VideoYT.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF120326285CD85100AB229D /* VideoYT.swift */; };
+		CF120329285CD85F00AB229D /* HomeYT.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF120328285CD85F00AB229D /* HomeYT.swift */; };
+		CF12032E285CDA7F00AB229D /*  Quran-Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12032D285CDA7F00AB229D /*  Quran-Model.swift */; };
+		CF120332285CDAE600AB229D /* AudioPlayerr.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF120331285CDAE600AB229D /* AudioPlayerr.swift */; };
+		CF120335285CDB1E00AB229D /* Reciter_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF120334285CDB1E00AB229D /* Reciter_1.swift */; };
+		CF120337285CDB2D00AB229D /* Reciter_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF120336285CDB2D00AB229D /* Reciter_2.swift */; };
+		CF12033C285CDB8200AB229D /* MCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12033B285CDB8200AB229D /* MCardView.swift */; };
+		CF12033E285CDB8F00AB229D /* SCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12033D285CDB8F00AB229D /* SCardView.swift */; };
+		CF120340285CDBF800AB229D /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12033F285CDBF800AB229D /* FormView.swift */; };
+		CF120342285CDC0400AB229D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF120341285CDC0400AB229D /* HomeView.swift */; };
+		CF120344285CDC2900AB229D /* audio.json in Resources */ = {isa = PBXBuildFile; fileRef = CF120343285CDC2900AB229D /* audio.json */; };
+		CF4CA3FB285F3378004D546C /* Reciter_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4CA3FA285F3378004D546C /* Reciter_3.swift */; };
+		CF8B6503285DFFE50013ABFB /* ContentAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8B6502285DFFE50013ABFB /* ContentAudio.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CF1202FA285CD4C100AB229D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CF1202E1285CD4BD00AB229D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CF1202E8285CD4BD00AB229D;
+			remoteInfo = Sacidun;
+		};
+		CF120304285CD4C100AB229D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CF1202E1285CD4BD00AB229D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CF1202E8285CD4BD00AB229D;
+			remoteInfo = Sacidun;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CF1202E9285CD4BD00AB229D /* Sacidun Quran.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sacidun Quran.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF1202EC285CD4BD00AB229D /* SacidunApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SacidunApp.swift; sourceTree = "<group>"; };
+		CF1202EE285CD4BD00AB229D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CF1202F0285CD4C000AB229D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CF1202F3285CD4C000AB229D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CF1202F9285CD4C100AB229D /* SacidunTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SacidunTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF1202FD285CD4C100AB229D /* SacidunTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SacidunTests.swift; sourceTree = "<group>"; };
+		CF120303285CD4C100AB229D /* SacidunUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SacidunUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF120307285CD4C100AB229D /* SacidunUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SacidunUITests.swift; sourceTree = "<group>"; };
+		CF120309285CD4C100AB229D /* SacidunUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SacidunUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CF120323285CD76100AB229D /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		CF120326285CD85100AB229D /* VideoYT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoYT.swift; sourceTree = "<group>"; };
+		CF120328285CD85F00AB229D /* HomeYT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeYT.swift; sourceTree = "<group>"; };
+		CF12032D285CDA7F00AB229D /*  Quran-Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Quran-Model.swift"; sourceTree = "<group>"; };
+		CF120331285CDAE600AB229D /* AudioPlayerr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerr.swift; sourceTree = "<group>"; };
+		CF120334285CDB1E00AB229D /* Reciter_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reciter_1.swift; sourceTree = "<group>"; };
+		CF120336285CDB2D00AB229D /* Reciter_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reciter_2.swift; sourceTree = "<group>"; };
+		CF12033B285CDB8200AB229D /* MCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MCardView.swift; sourceTree = "<group>"; };
+		CF12033D285CDB8F00AB229D /* SCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCardView.swift; sourceTree = "<group>"; };
+		CF12033F285CDBF800AB229D /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
+		CF120341285CDC0400AB229D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		CF120343285CDC2900AB229D /* audio.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio.json; sourceTree = "<group>"; };
+		CF4CA3FA285F3378004D546C /* Reciter_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reciter_3.swift; sourceTree = "<group>"; };
+		CF8B6502285DFFE50013ABFB /* ContentAudio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentAudio.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CF1202E6285CD4BD00AB229D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF1202F6285CD4C100AB229D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF120300285CD4C100AB229D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CF1202E0285CD4BD00AB229D = {
+			isa = PBXGroup;
+			children = (
+				CF1202EB285CD4BD00AB229D /* Sacidun */,
+				CF1202FC285CD4C100AB229D /* SacidunTests */,
+				CF120306285CD4C100AB229D /* SacidunUITests */,
+				CF1202EA285CD4BD00AB229D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CF1202EA285CD4BD00AB229D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CF1202E9285CD4BD00AB229D /* Sacidun Quran.app */,
+				CF1202F9285CD4C100AB229D /* SacidunTests.xctest */,
+				CF120303285CD4C100AB229D /* SacidunUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CF1202EB285CD4BD00AB229D /* Sacidun */ = {
+			isa = PBXGroup;
+			children = (
+				CF120345285CDC7500AB229D /* JSON */,
+				CF12032A285CDA6400AB229D /* AudioView */,
+				CF120325285CD83700AB229D /* VideoView */,
+				CF120316285CD4C700AB229D /* Other */,
+				CF1202F2285CD4C000AB229D /* Preview Content */,
+			);
+			path = Sacidun;
+			sourceTree = "<group>";
+		};
+		CF1202F2285CD4C000AB229D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				CF1202F3285CD4C000AB229D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CF1202FC285CD4C100AB229D /* SacidunTests */ = {
+			isa = PBXGroup;
+			children = (
+				CF1202FD285CD4C100AB229D /* SacidunTests.swift */,
+			);
+			path = SacidunTests;
+			sourceTree = "<group>";
+		};
+		CF120306285CD4C100AB229D /* SacidunUITests */ = {
+			isa = PBXGroup;
+			children = (
+				CF120307285CD4C100AB229D /* SacidunUITests.swift */,
+				CF120309285CD4C100AB229D /* SacidunUITestsLaunchTests.swift */,
+			);
+			path = SacidunUITests;
+			sourceTree = "<group>";
+		};
+		CF120316285CD4C700AB229D /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				CF1202F0285CD4C000AB229D /* Assets.xcassets */,
+				CF1202EC285CD4BD00AB229D /* SacidunApp.swift */,
+				CF1202EE285CD4BD00AB229D /* ContentView.swift */,
+				CF120323285CD76100AB229D /* TabBarView.swift */,
+				CF12033F285CDBF800AB229D /* FormView.swift */,
+			);
+			name = Other;
+			path = "Òther";
+			sourceTree = "<group>";
+		};
+		CF120325285CD83700AB229D /* VideoView */ = {
+			isa = PBXGroup;
+			children = (
+				CF120326285CD85100AB229D /* VideoYT.swift */,
+				CF120328285CD85F00AB229D /* HomeYT.swift */,
+			);
+			path = VideoView;
+			sourceTree = "<group>";
+		};
+		CF12032A285CDA6400AB229D /* AudioView */ = {
+			isa = PBXGroup;
+			children = (
+				CF45D60E285E6805000BA0F7 /* ÇalGroup */,
+				CF69C441285D0BD900D97DFC /* HomeAudio */,
+				CF12033A285CDB6B00AB229D /* AudioHomeDesign */,
+				CF120333285CDB0A00AB229D /* StickyHeader  */,
+				CF120330285CDACB00AB229D /* AudioPlayer */,
+				CF12032F285CDAA300AB229D /* Model */,
+			);
+			path = AudioView;
+			sourceTree = "<group>";
+		};
+		CF12032F285CDAA300AB229D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CF12032D285CDA7F00AB229D /*  Quran-Model.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		CF120330285CDACB00AB229D /* AudioPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				CF120331285CDAE600AB229D /* AudioPlayerr.swift */,
+			);
+			path = AudioPlayer;
+			sourceTree = "<group>";
+		};
+		CF120333285CDB0A00AB229D /* StickyHeader  */ = {
+			isa = PBXGroup;
+			children = (
+				CF120334285CDB1E00AB229D /* Reciter_1.swift */,
+				CF120336285CDB2D00AB229D /* Reciter_2.swift */,
+				CF4CA3FA285F3378004D546C /* Reciter_3.swift */,
+			);
+			path = "StickyHeader ";
+			sourceTree = "<group>";
+		};
+		CF12033A285CDB6B00AB229D /* AudioHomeDesign */ = {
+			isa = PBXGroup;
+			children = (
+				CF12033B285CDB8200AB229D /* MCardView.swift */,
+				CF12033D285CDB8F00AB229D /* SCardView.swift */,
+			);
+			path = AudioHomeDesign;
+			sourceTree = "<group>";
+		};
+		CF120345285CDC7500AB229D /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				CF120343285CDC2900AB229D /* audio.json */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
+		CF45D60E285E6805000BA0F7 /* ÇalGroup */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "ÇalGroup";
+			path = "ÇalGroup";
+			sourceTree = "<group>";
+		};
+		CF69C441285D0BD900D97DFC /* HomeAudio */ = {
+			isa = PBXGroup;
+			children = (
+				CF8B6502285DFFE50013ABFB /* ContentAudio.swift */,
+				CF120341285CDC0400AB229D /* HomeView.swift */,
+			);
+			path = HomeAudio;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CF1202E8285CD4BD00AB229D /* Sacidun */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CF12030D285CD4C100AB229D /* Build configuration list for PBXNativeTarget "Sacidun" */;
+			buildPhases = (
+				CF1202E5285CD4BD00AB229D /* Sources */,
+				CF1202E6285CD4BD00AB229D /* Frameworks */,
+				CF1202E7285CD4BD00AB229D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Sacidun;
+			productName = Sacidun;
+			productReference = CF1202E9285CD4BD00AB229D /* Sacidun Quran.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CF1202F8285CD4C100AB229D /* SacidunTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CF120310285CD4C100AB229D /* Build configuration list for PBXNativeTarget "SacidunTests" */;
+			buildPhases = (
+				CF1202F5285CD4C100AB229D /* Sources */,
+				CF1202F6285CD4C100AB229D /* Frameworks */,
+				CF1202F7285CD4C100AB229D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CF1202FB285CD4C100AB229D /* PBXTargetDependency */,
+			);
+			name = SacidunTests;
+			productName = SacidunTests;
+			productReference = CF1202F9285CD4C100AB229D /* SacidunTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		CF120302285CD4C100AB229D /* SacidunUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CF120313285CD4C100AB229D /* Build configuration list for PBXNativeTarget "SacidunUITests" */;
+			buildPhases = (
+				CF1202FF285CD4C100AB229D /* Sources */,
+				CF120300285CD4C100AB229D /* Frameworks */,
+				CF120301285CD4C100AB229D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CF120305285CD4C100AB229D /* PBXTargetDependency */,
+			);
+			name = SacidunUITests;
+			productName = SacidunUITests;
+			productReference = CF120303285CD4C100AB229D /* SacidunUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CF1202E1285CD4BD00AB229D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					CF1202E8285CD4BD00AB229D = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					CF1202F8285CD4C100AB229D = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = CF1202E8285CD4BD00AB229D;
+					};
+					CF120302285CD4C100AB229D = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = CF1202E8285CD4BD00AB229D;
+					};
+				};
+			};
+			buildConfigurationList = CF1202E4285CD4BD00AB229D /* Build configuration list for PBXProject "Sacidun" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF1202E0285CD4BD00AB229D;
+			productRefGroup = CF1202EA285CD4BD00AB229D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CF1202E8285CD4BD00AB229D /* Sacidun */,
+				CF1202F8285CD4C100AB229D /* SacidunTests */,
+				CF120302285CD4C100AB229D /* SacidunUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CF1202E7285CD4BD00AB229D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF1202F4285CD4C000AB229D /* Preview Assets.xcassets in Resources */,
+				CF1202F1285CD4C000AB229D /* Assets.xcassets in Resources */,
+				CF120344285CDC2900AB229D /* audio.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF1202F7285CD4C100AB229D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF120301285CD4C100AB229D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CF1202E5285CD4BD00AB229D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF120340285CDBF800AB229D /* FormView.swift in Sources */,
+				CF4CA3FB285F3378004D546C /* Reciter_3.swift in Sources */,
+				CF120342285CDC0400AB229D /* HomeView.swift in Sources */,
+				CF8B6503285DFFE50013ABFB /* ContentAudio.swift in Sources */,
+				CF120335285CDB1E00AB229D /* Reciter_1.swift in Sources */,
+				CF120329285CD85F00AB229D /* HomeYT.swift in Sources */,
+				CF120327285CD85100AB229D /* VideoYT.swift in Sources */,
+				CF120332285CDAE600AB229D /* AudioPlayerr.swift in Sources */,
+				CF120337285CDB2D00AB229D /* Reciter_2.swift in Sources */,
+				CF12032E285CDA7F00AB229D /*  Quran-Model.swift in Sources */,
+				CF12033E285CDB8F00AB229D /* SCardView.swift in Sources */,
+				CF1202EF285CD4BD00AB229D /* ContentView.swift in Sources */,
+				CF120324285CD76100AB229D /* TabBarView.swift in Sources */,
+				CF12033C285CDB8200AB229D /* MCardView.swift in Sources */,
+				CF1202ED285CD4BD00AB229D /* SacidunApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF1202F5285CD4C100AB229D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF1202FE285CD4C100AB229D /* SacidunTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF1202FF285CD4C100AB229D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF12030A285CD4C100AB229D /* SacidunUITestsLaunchTests.swift in Sources */,
+				CF120308285CD4C100AB229D /* SacidunUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CF1202FB285CD4C100AB229D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CF1202E8285CD4BD00AB229D /* Sacidun */;
+			targetProxy = CF1202FA285CD4C100AB229D /* PBXContainerItemProxy */;
+		};
+		CF120305285CD4C100AB229D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CF1202E8285CD4BD00AB229D /* Sacidun */;
+			targetProxy = CF120304285CD4C100AB229D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		CF12030B285CD4C100AB229D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CF12030C285CD4C100AB229D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CF12030E285CD4C100AB229D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Sacidun/Preview Content\"";
+				DEVELOPMENT_TEAM = LW6HA26932;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 0.2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com-JZ-IOS-App";
+				PRODUCT_NAME = "Sacidun Quran";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		CF12030F285CD4C100AB229D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Sacidun/Preview Content\"";
+				DEVELOPMENT_TEAM = LW6HA26932;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 0.2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com-JZ-IOS-App";
+				PRODUCT_NAME = "Sacidun Quran";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		CF120311285CD4C100AB229D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Ayhan.com.SacidunTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sacidun.app/Sacidun";
+			};
+			name = Debug;
+		};
+		CF120312285CD4C100AB229D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Ayhan.com.SacidunTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sacidun.app/Sacidun";
+			};
+			name = Release;
+		};
+		CF120314285CD4C100AB229D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Ayhan.com.SacidunUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Sacidun;
+			};
+			name = Debug;
+		};
+		CF120315285CD4C100AB229D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Ayhan.com.SacidunUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Sacidun;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CF1202E4285CD4BD00AB229D /* Build configuration list for PBXProject "Sacidun" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF12030B285CD4C100AB229D /* Debug */,
+				CF12030C285CD4C100AB229D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CF12030D285CD4C100AB229D /* Build configuration list for PBXNativeTarget "Sacidun" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF12030E285CD4C100AB229D /* Debug */,
+				CF12030F285CD4C100AB229D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CF120310285CD4C100AB229D /* Build configuration list for PBXNativeTarget "SacidunTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF120311285CD4C100AB229D /* Debug */,
+				CF120312285CD4C100AB229D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CF120313285CD4C100AB229D /* Build configuration list for PBXNativeTarget "SacidunUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF120314285CD4C100AB229D /* Debug */,
+				CF120315285CD4C100AB229D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CF1202E1285CD4BD00AB229D /* Project object */;
+}

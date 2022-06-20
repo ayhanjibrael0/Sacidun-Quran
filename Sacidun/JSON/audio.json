@@ -1,0 +1,908 @@
+[
+    {
+        "id": 1,
+        "Name": "All Reciters",
+        "Reciters1": [
+            {
+                "id": 1,
+                "Name": "Mansour Salimi",
+                "image": "Salim",
+                "list": [
+                    {
+                        "id": 1,
+                        "SurahName": "Yasin Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/036.mp3",
+                        "image": "Salim"
+                    },
+                    {
+                        "id": 2,
+                        "SurahName": "Duhan Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/044.mp3",
+                        "image": "Salim"
+                    },
+                    {
+                        "id": 3,
+                        "SurahName": "Casiye Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/045.mp3",
+                        "image": "Salim"
+                    },
+                    {
+                        "id": 4,
+                        "SurahName": "Ahkaf Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/046.mp3",
+                        "image": "Salim"
+                    },
+                    {
+                        "id": 5,
+                        "SurahName": "Hucurat Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/049.mp3",
+                        "image": "Salim"
+                    },
+                    {
+                        "id": 6,
+                        "SurahName": "Kaf Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/050.mp3",
+                        "image": "Salim"
+                    },
+                    {
+                        "id": 7,
+                        "SurahName": "Zariyat Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/051.mp3",
+                        "image": "Salim"
+                    },
+                    {
+                        "id": 8,
+                        "SurahName": "Tur Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/052.mp3",
+                        "image": "Salim"
+                    },
+                    {
+                        "id": 9,
+                        "SurahName": "Necm Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/053.mp3",
+                        "image": "Salim"
+                    },
+                    {
+                        "id": 10,
+                        "SurahName": "Kamer Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/054.mp3",
+                        "image": "Salim"
+                    },
+                   {
+                        "id": 11,
+                        "SurahName": "Rahman Suresi",
+                        "fileName": "https://server14.mp3quran.net/mansor/055.mp3",
+                        "image": "Salim"
+                    },
+                ]
+          },
+
+          
+            {
+                "id": 3,
+                "Name": "İslam Subhi",
+                "image": "Subhi",
+                "list": [
+                    {
+                        "id": 1,
+                        "SurahName": "Ra'd Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/013.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 2,
+                        "SurahName": "İsra Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/017.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 3,
+                        "SurahName": "Kehf Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/018.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 4,
+                        "SurahName": "Şu'ara Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 5,
+                        "SurahName": "Lukman Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/031.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 6,
+                        "SurahName": "Secde Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/032.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 7,
+                        "SurahName": "Fussilet Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/041.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 8,
+                        "SurahName": "Duhan Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/044.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 9,
+                        "SurahName": "Kaf Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/050.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 10,
+                        "SurahName": "Necm Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/053.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 11,
+                        "SurahName": "Kamar Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/054.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 12,
+                        "SurahName": "Kamar Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/054.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 13,
+                        "SurahName": "Rahman Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/055.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 14,
+                        "SurahName": "Vakı'a Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/056.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 15,
+                        "SurahName": "Haşr Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/059.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 16,
+                        "SurahName": "Teğabun Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/064.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 17,
+                        "SurahName": "Tahrim Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/066.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 18,
+                        "SurahName": "Mulk Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/067.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 19,
+                        "SurahName": "Kalem Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/068.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 20,
+                        "SurahName": "Me'aric Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/070.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 21,
+                        "SurahName": "Cin Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/072.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 22,
+                        "SurahName": "İnsan Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/076.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 23,
+                        "SurahName": "Naziat Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/079.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 24,
+                        "SurahName": "Buruc Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/085.mp3",
+                        "image": "Subhi"
+                    },
+                    {
+                        "id": 25,
+                        "SurahName": "Gaşiye Suresi",
+                        "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/088.mp3",
+                        "image": "Subhi"
+                    },
+                ]
+            },
+            {
+                "id": 5,
+                "Name": "Nasser Qatami",
+                "image": "Qatami",
+                "list": [
+                    {
+                        "id": 1,
+                        "SurahName": "Fatiha Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/001.mp3",
+                        "image": "Qatami"
+                    },
+                    {
+                        "id": 2,
+                        "SurahName": "Bakara Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/002.mp3",
+                        "image": "Qatami"
+                    },
+                    {
+                        "id": 3,
+                        "SurahName": "Âl-i İmrân Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/003.mp3",
+                        "image": "Qatami"
+                    },
+
+                    {
+                        "id": 4,
+                        "SurahName": "Nisa Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/004.mp3",
+                        "image": "Qatami"
+                    },
+                    {
+                        "id": 5,
+                        "SurahName": "Maide Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/005.mp3",
+                        "image": "Qatami"
+                    },
+                    {
+                        "id": 6,
+                        "SurahName": "En'âm Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/006.mp3",
+                        "image": "Qatami"
+                    },
+                    {
+                        "id": 7,
+                        "SurahName": "A'raf Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/007.mp3",
+                        "image": "Qatami"
+                    },
+                    {
+                        "id": 8,
+                        "SurahName": "Enfal Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/008.mp3",
+                        "image": "Qatami"
+                    },
+                    {
+                        "id": 9,
+                        "SurahName": "Tevbe Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/009.mp3",
+                        "image": "Qatami"
+                    },
+                    {
+                        "id": 10,
+                        "SurahName": "Yunus Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/010.mp3",
+                        "image": "Qatami"
+                    },
+                    {
+                        "id": 11,
+                        "SurahName": "Hud Suresi",
+                        "fileName": "https://server6.mp3quran.net/qtm/011.mp3",
+                        "image": "Qatami"
+                    },
+                ]
+            },
+            {
+                "id": 6,
+                "Name": "Ahmad Nufais",
+                "image": "Nufais",
+                "list": [
+                    {
+                        "id": 1,
+                        "SurahName": "Fatiha Suresi",
+                        "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/001.mp3",
+                        "image": "Nufais"
+                    },
+                    {
+                        "id": 2,
+                        "SurahName": "Bakara Suresi",
+                        "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/002.mp3",
+                        "image": "Nufais"
+                    },
+                    {
+                        "id": 3,
+                        "SurahName": "Âl-i İmrân Suresi",
+                        "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/003.mp3",
+                        "image": "Nufais"
+                    },
+                    {
+                        "id": 4,
+                        "SurahName": "Enfal Suresi",
+                        "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/008.mp3",
+                        "image": "Nufais"
+                    },
+                    {
+                        "id": 5,
+                        "SurahName": "Yusuf Suresi",
+                        "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/012.mp3",
+                        "image": "Nufais"
+                    },
+                    {
+                        "id": 6,
+                        "SurahName": "Ra'd Suresi",
+                        "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/013.mp3",
+                        "image": "Nufais"
+                    },
+                    {
+                        "id": 7,
+                        "SurahName": "İbrahim Suresi",
+                        "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/014.mp3",
+                        "image": "Nufais"
+                    },
+                    {
+                        "id": 8,
+                        "SurahName": "Kehf Suresi",
+                        "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/018.mp3",
+                        "image": "Nufais"
+                    },
+                    {
+                        "id": 9,
+                        "SurahName": "Enbiya Suresi",
+                        "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/021.mp3",
+                        "image": "Nufais"
+                    },
+                    {
+                        "id": 10,
+                        "SurahName": "Şu'ara Suresi",
+                        "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/026.mp3",
+                        "image": "Nufais"
+                    },
+                ]
+            },
+            {
+                "id": 7,
+                "Name": "Hazzal Balushi",
+                "image": "Hazzal",
+                "list": [
+                    {
+                        "id": 1,
+                        "SurahName": "İbrahim Suresi",
+                        "fileName": "https://server11.mp3quran.net/hazza/014.mp3",
+                        "image": "Hazzal"
+
+                    },
+                    {
+                        "id": 2,
+                        "SurahName": "Kehf Suresi",
+                        "fileName": "https://server11.mp3quran.net/hazza/018.mp3",
+                        "image": "Hazzal"
+
+                    },
+                    {
+                        "id": 3,
+                        "SurahName": "Hicr Suresi",
+                        "fileName": "https://server11.mp3quran.net/hazza/015.mp3",
+                        "image": "Hazzal"
+
+                    },
+                    {
+                        "id": 4,
+                        "SurahName": "Mülk Suresi",
+                        "fileName": "https://server11.mp3quran.net/hazza/067.mp3",
+                        "image": "Hazzal"
+
+                    },
+                ]
+            },
+            {
+                "id": 8,
+                "Name": "Maher Muaqly",
+                "image": "Muaqly",
+                "list": [
+                    {
+                        "id": 1,
+                        "SurahName": "Bakara Suresi",
+                        "fileName": "https://server12.mp3quran.net/maher/002.mp3",
+                        "image": "Muaqly"
+                    },
+                    {
+                        "id": 2,
+                        "SurahName": "Meryem Suresi",
+                        "fileName": "https://server12.mp3quran.net/maher/019.mp3",
+                        "image": "Muaqly"
+                    },
+                    
+                    {
+                        "id": 3,
+                        "SurahName": "Yasin Suresi",
+                        "fileName": "https://server12.mp3quran.net/maher/036.mp3",
+                        "image": "Muaqly"
+                    },
+                    {
+                        "id": 4,
+                        "SurahName": "Zümer Suresi",
+                        "fileName": "https://server12.mp3quran.net/maher/039.mp3",
+                        "image": "Muaqly"
+                    },
+                    {
+                        "id": 5,
+                        "SurahName": "Tevbe Suresi",
+                        "fileName": "https://server12.mp3quran.net/maher/009.mp3",
+                        "image": "Muaqly"
+                    },
+                  ]
+            },
+        ],
+        
+        
+        "Reciters2": [
+          {
+              "id": 1,
+              "Name": "Maher Muaqly",
+              "image": "Muaqly",
+              "list": [
+                  {
+                      "id": 1,
+                      "SurahName": "Bakara Suresi",
+                      "fileName": "https://server12.mp3quran.net/maher/002.mp3",
+                      "image": "Muaqly"
+                  },
+                  {
+                      "id": 2,
+                      "SurahName": "Meryem Suresi",
+                      "fileName": "https://server12.mp3quran.net/maher/019.mp3",
+                      "image": "Muaqly"
+                  },
+                  
+                  {
+                      "id": 3,
+                      "SurahName": "Yasin Suresi",
+                      "fileName": "https://server12.mp3quran.net/maher/036.mp3",
+                      "image": "Muaqly"
+                  },
+                  {
+                      "id": 4,
+                      "SurahName": "Zümer Suresi",
+                      "fileName": "https://server12.mp3quran.net/maher/039.mp3",
+                      "image": "Muaqly"
+                  },
+                  {
+                      "id": 5,
+                      "SurahName": "Tevbe Suresi",
+                      "fileName": "https://server12.mp3quran.net/maher/009.mp3",
+                      "image": "Muaqly"
+                  },
+                ]
+          },
+          {
+              "id": 2,
+              "Name": "Mansour Salimi",
+              "image": "Salim",
+              "list": [
+                  {
+                      "id": 1,
+                      "SurahName": "Yasin Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/036.mp3",
+                      "image": "Salim"
+                  },
+                  {
+                      "id": 2,
+                      "SurahName": "Duhan Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/044.mp3",
+                      "image": "Salim"
+                  },
+                  {
+                      "id": 3,
+                      "SurahName": "Casiye Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/045.mp3",
+                      "image": "Salim"
+                  },
+                  {
+                      "id": 4,
+                      "SurahName": "Ahkaf Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/046.mp3",
+                      "image": "Salim"
+                  },
+                  {
+                      "id": 5,
+                      "SurahName": "Hucurat Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/049.mp3",
+                      "image": "Salim"
+                  },
+                  {
+                      "id": 6,
+                      "SurahName": "Kaf Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/050.mp3",
+                      "image": "Salim"
+                  },
+                  {
+                      "id": 7,
+                      "SurahName": "Zariyat Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/051.mp3",
+                      "image": "Salim"
+                  },
+                  {
+                      "id": 8,
+                      "SurahName": "Tur Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/052.mp3",
+                      "image": "Salim"
+                  },
+                  {
+                      "id": 9,
+                      "SurahName": "Necm Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/053.mp3",
+                      "image": "Salim"
+                  },
+                  {
+                      "id": 10,
+                      "SurahName": "Kamer Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/054.mp3",
+                      "image": "Salim"
+                  },
+                 {
+                      "id": 11,
+                      "SurahName": "Rahman Suresi",
+                      "fileName": "https://server14.mp3quran.net/mansor/055.mp3",
+                      "image": "Salim"
+                  },
+              ]
+          },
+          {
+              "id": 4,
+              "Name": "Ahmad Nufais",
+              "image": "Nufais",
+              "list": [
+                  {
+                      "id": 1,
+                      "SurahName": "Fatiha Suresi",
+                      "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/001.mp3",
+                      "image": "Nufais"
+                  },
+                  {
+                      "id": 2,
+                      "SurahName": "Bakara Suresi",
+                      "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/002.mp3",
+                      "image": "Nufais"
+                  },
+                  {
+                      "id": 3,
+                      "SurahName": "Âl-i İmrân Suresi",
+                      "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/003.mp3",
+                      "image": "Nufais"
+                  },
+                  {
+                      "id": 4,
+                      "SurahName": "Enfal Suresi",
+                      "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/008.mp3",
+                      "image": "Nufais"
+                  },
+                  {
+                      "id": 5,
+                      "SurahName": "Yusuf Suresi",
+                      "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/012.mp3",
+                      "image": "Nufais"
+                  },
+                  {
+                      "id": 6,
+                      "SurahName": "Ra'd Suresi",
+                      "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/013.mp3",
+                      "image": "Nufais"
+                  },
+                  {
+                      "id": 7,
+                      "SurahName": "İbrahim Suresi",
+                      "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/014.mp3",
+                      "image": "Nufais"
+                  },
+                  {
+                      "id": 8,
+                      "SurahName": "Kehf Suresi",
+                      "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/018.mp3",
+                      "image": "Nufais"
+                  },
+                  {
+                      "id": 9,
+                      "SurahName": "Enbiya Suresi",
+                      "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/021.mp3",
+                      "image": "Nufais"
+                  },
+                  {
+                      "id": 10,
+                      "SurahName": "Şu'ara Suresi",
+                      "fileName": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/026.mp3",
+                      "image": "Nufais"
+                  },
+              ]
+          },
+        ],
+        
+        
+        "Reciters3": [
+          {
+              "id": 1,
+              "Name": "İslam Subhi",
+              "image": "Subhi",
+              "list": [
+                  {
+                      "id": 1,
+                      "SurahName": "Ra'd Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/013.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 2,
+                      "SurahName": "İsra Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/017.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 3,
+                      "SurahName": "Kehf Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/018.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 4,
+                      "SurahName": "Şu'ara Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 5,
+                      "SurahName": "Lukman Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/031.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 6,
+                      "SurahName": "Secde Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/032.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 7,
+                      "SurahName": "Fussilet Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/041.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 8,
+                      "SurahName": "Duhan Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/044.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 9,
+                      "SurahName": "Kaf Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/050.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 10,
+                      "SurahName": "Necm Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/053.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 11,
+                      "SurahName": "Kamar Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/054.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 12,
+                      "SurahName": "Kamar Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/054.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 13,
+                      "SurahName": "Rahman Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/055.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 14,
+                      "SurahName": "Vakı'a Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/056.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 15,
+                      "SurahName": "Haşr Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/059.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 16,
+                      "SurahName": "Teğabun Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/064.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 17,
+                      "SurahName": "Tahrim Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/066.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 18,
+                      "SurahName": "Mulk Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/067.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 19,
+                      "SurahName": "Kalem Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/068.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 20,
+                      "SurahName": "Me'aric Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/070.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 21,
+                      "SurahName": "Cin Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/072.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 22,
+                      "SurahName": "İnsan Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/076.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 23,
+                      "SurahName": "Naziat Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/079.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 24,
+                      "SurahName": "Buruc Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/085.mp3",
+                      "image": "Subhi"
+                  },
+                  {
+                      "id": 25,
+                      "SurahName": "Gaşiye Suresi",
+                      "fileName": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/088.mp3",
+                      "image": "Subhi"
+                  },
+              ]
+              
+          },
+          {
+              "id": 2,
+              "Name": "Nasser Qatami",
+              "image": "Qatami",
+              "list": [
+                  {
+                      "id": 1,
+                      "SurahName": "Fatiha Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/001.mp3",
+                      "image": "Qatami"
+                  },
+                  {
+                      "id": 2,
+                      "SurahName": "Bakara Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/002.mp3",
+                      "image": "Qatami"
+                  },
+                  {
+                      "id": 3,
+                      "SurahName": "Âl-i İmrân Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/003.mp3",
+                      "image": "Qatami"
+                  },
+
+                  {
+                      "id": 4,
+                      "SurahName": "Nisa Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/004.mp3",
+                      "image": "Qatami"
+                  },
+                  {
+                      "id": 5,
+                      "SurahName": "Maide Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/005.mp3",
+                      "image": "Qatami"
+                  },
+                  {
+                      "id": 6,
+                      "SurahName": "En'âm Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/006.mp3",
+                      "image": "Qatami"
+                  },
+                  {
+                      "id": 7,
+                      "SurahName": "A'raf Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/007.mp3",
+                      "image": "Qatami"
+                  },
+                  {
+                      "id": 8,
+                      "SurahName": "Enfal Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/008.mp3",
+                      "image": "Qatami"
+                  },
+                  {
+                      "id": 9,
+                      "SurahName": "Tevbe Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/009.mp3",
+                      "image": "Qatami"
+                  },
+                  {
+                      "id": 10,
+                      "SurahName": "Yunus Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/010.mp3",
+                      "image": "Qatami"
+                  },
+                  {
+                      "id": 11,
+                      "SurahName": "Hud Suresi",
+                      "fileName": "https://server6.mp3quran.net/qtm/011.mp3",
+                      "image": "Qatami"
+                  },
+              ]
+          },
+          
+          {
+              "id": 3,
+              "Name": "Hazzal Balushi",
+              "image": "Hazzal",
+              "list": [
+                  {
+                      "id": 1,
+                      "SurahName": "İbrahim Suresi",
+                      "fileName": "https://server11.mp3quran.net/hazza/014.mp3",
+                      "image": "Hazzal"
+
+                  },
+                  {
+                      "id": 2,
+                      "SurahName": "Kehf Suresi",
+                      "fileName": "https://server11.mp3quran.net/hazza/018.mp3",
+                      "image": "Hazzal"
+
+                  },
+                  {
+                      "id": 3,
+                      "SurahName": "Hicr Suresi",
+                      "fileName": "https://server11.mp3quran.net/hazza/015.mp3",
+                      "image": "Hazzal"
+
+                  },
+                  {
+                      "id": 4,
+                      "SurahName": "Mülk Suresi",
+                      "fileName": "https://server11.mp3quran.net/hazza/067.mp3",
+                      "image": "Hazzal"
+
+                  },
+              ]
+          },
+        ],
+    }
+]
